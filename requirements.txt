@@ -1,0 +1,25 @@
+langchain
+langchain-core
+
+# open_ai
+langchain-openai
+openai
+
+# anthropic
+langchain-anthropic
+
+#Gemini  Palm integ
+langchain-google-genai
+google-generativeai
+
+#Hugging face 
+langchain-huggingface
+transformers
+huggingface-hub
+
+
+python-dotenv
+
+# ml
+numpy
+scikit-learn

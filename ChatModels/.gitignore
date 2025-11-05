@@ -1,0 +1,97 @@
+# =========================================
+# Python general
+# =========================================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pkl
+*.pickle
+
+# Byte-compiled / optimized / DLL files
+*$py.class
+
+# =========================================
+# Environment folders
+# =========================================
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+
+# Local environment variables file
+*.env
+
+# =========================================
+# Virtual environment installers
+# =========================================
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# =========================================
+# Distribution / Packaging
+# =========================================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================================
+# Jupyter Notebook checkpoints
+# =========================================
+.ipynb_checkpoints/
+
+# =========================================
+# Unit test / coverage reports
+# =========================================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# =========================================
+# MyPy / Pyre / Pytype
+# =========================================
+.mypy_cache/
+.pyre/
+.pytype/
+
+# =========================================
+# Logs
+# =========================================
+*.log
+
+# =========================================
+# IDE and editor folders
+# =========================================
+.vscode/
+.idea/
+*.swp
+
+# =========================================
+# OS generated files
+# =========================================
+.DS_Store
+Thumbs.db
+
+# =========================================
+# Local database / cache
+# =========================================
+*.sqlite3
+*.db
+
+# =========================================
+# Temporary files
+# =========================================
+*.tmp
+*.temp
+*.bak
