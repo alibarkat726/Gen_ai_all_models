@@ -1,0 +1,55 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+.mypy_cache/
+.pytest_cache/
+.cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables / secrets
+.env
+*.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# HuggingFace cached models
+.huggingface/
+~/.cache/huggingface
+
+# OS / System files
+.DS_Store
+Thumbs.db
+
+# Databases
+*.sqlite3
+*.db
+
+# PyInstaller
+*.manifest
+*.spec
